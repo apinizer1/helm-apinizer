@@ -3,12 +3,12 @@ entries:
   Apinizer:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-03-05T11:10:56.878388655Z"
+    created: "2024-03-08T06:54:16.997062825Z"
     description: A Helm chart for Kubernetes
-    digest: 15fc20ccdffabec63b043c21210a73572fffeb4df10b1c6a3c0044af47bb83d0
+    digest: 06bdd2feb9210ec56f2117d24a7871a83f5267396a52c4f1d27d988dcbe21190
     name: Apinizer
     type: application
     urls:
     - Apinizer-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-05T11:10:56.877503439Z"
+generated: "2024-03-08T06:54:16.996129395Z"
