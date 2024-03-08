@@ -3,12 +3,12 @@ entries:
   mongo-helm:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2024-03-08T11:29:33.12349219Z"
+    created: "2024-03-08T11:35:39.942020425Z"
     description: A Helm chart for Kubernetes
-    digest: 3ed1acc277f378437d4384267a2286107b97c3d54a8462e60c7ad956c03ae710
+    digest: 35236a35dd483bd7edabb1ba6273f26dba078a42349b36b6e28483a44170ed7f
     name: mongo-helm
     type: application
     urls:
     - mongo-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-08T11:29:33.122752513Z"
+generated: "2024-03-08T11:35:39.940785167Z"
